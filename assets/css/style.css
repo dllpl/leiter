@@ -179,12 +179,18 @@ button.btn {
 .fullscreen {
   height: 100vh !important;
 }
+.img-correct {
+  margin-top: 33%;
+}
 /* Custom, iPhone Retina */
 /* Small Devices, Tablets */
 /* Medium Devices, Desktops */
 @media only screen and (max-width: 992px) {
   .fullscreen {
     height: auto !important;
+  }
+  .img-correct {
+    margin-top: 0;
   }
 }
 /*------------------------------------*\
