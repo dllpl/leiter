@@ -30,7 +30,7 @@ $('#send').click(function (e) {
                 setTimeout(function () {
                     window.location.reload()
                 }, 1500)
-            }git init
+            }
         }
     });
 
